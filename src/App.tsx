@@ -20,10 +20,10 @@ function App() {
     <>
       <h1>ProfileInfo</h1>
       {/* <Categories/> */}
-      <ProfileSearch />
+      {/* <ProfileSearch /> */}
       {/* <ProfileInfo/> */}
       {/* <ProfileSearch /> */}
-      {/* <ProfileInfo {...sampleProfile} /> */}
+      <ProfileInfo {...sampleProfile} />
     </>
   );
 }
